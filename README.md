@@ -1,2 +1,4 @@
 # roboticsstorev1
-segundaversión
+#segundaversión
+
+Esta pagina web, desarollada en flask
